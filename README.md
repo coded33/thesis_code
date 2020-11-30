@@ -7,7 +7,7 @@
 Make sure to have over 10 GB of disk space in your environment. This is not given with the default gesis-notebooks account.
 
 Launch this repository in binder:
-[![Binder](https://notebooks.gesis.org/binder/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/coded33/thesis/master)
+[![Binder](https://notebooks.gesis.org/binder/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/coded33/thesis_code/master)
 
 or install it by creating an Anaconda environment:
 > conda env create -f binder/environment.yml --name thesis
