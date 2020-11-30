@@ -6,6 +6,8 @@
 
 Make sure to have over 10 GB of disk space in your environment. This is not given with the default gesis-notebooks account.
 
+Please be aware that the creation of the binder environment can take a long time!
+
 Launch this repository in binder:
 [![Binder](https://notebooks.gesis.org/binder/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/coded33/thesis_code/main)
 
